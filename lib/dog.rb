@@ -7,4 +7,5 @@ end
 
 
 fido = Dog.new
+snoopy 
 
