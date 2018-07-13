@@ -1,5 +1,8 @@
 # dog.rb
-class Dog(fido)
+class Dog
+  @fido = fido
+  @snoopy = snoopy
+  @lassie = lassie
   
   
   
