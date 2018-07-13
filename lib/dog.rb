@@ -6,5 +6,5 @@ class Dog
 end
 
 
-fido = ClassDog.new
+fido = Dog.new
 
